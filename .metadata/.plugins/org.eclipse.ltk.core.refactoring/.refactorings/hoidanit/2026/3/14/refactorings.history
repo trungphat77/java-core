@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;hoidanit.Testcopilot&apos; to &apos;TestCopilot&apos;&#x0D;&#x0A;- Original project: &apos;hoidanit&apos;&#x0D;&#x0A;- Original element: &apos;hoidanit.Testcopilot&apos;&#x0D;&#x0A;- Renamed element: &apos;hoidanit.TestCopilot&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Testcopilot&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;hoidanit{Testcopilot.java[Testcopilot" matchStrategy="1" name="TestCopilot" qualified="false" references="true" similarDeclarations="false" stamp="1774803047043" textual="false" version="1.0"/>
+</session>
